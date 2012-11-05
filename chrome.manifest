@@ -1,0 +1,7 @@
+locale cmdshots en-US chrome/locale/en-US/
+
+skin cmdshots default-style skin/
+
+component {0A8F9EAE-246B-11E2-A07B-1FA86188709B} components/cmdLineHandler.js
+contract @omarabid.com/cmdHandler;1 {0A8F9EAE-246B-11E2-A07B-1FA86188709B}
+category command-line-handler m-cmdHandler @omarabid.com/cmdHandler;1 
